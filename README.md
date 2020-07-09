@@ -1,1 +1,1 @@
-# myproject2
+# This is my project for STEP.
